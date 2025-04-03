@@ -19,9 +19,8 @@ InkSync is a real-time collaborative whiteboard application where users can regi
 
 | Tech | Description |
 |------|------------|
-| **React.js** | Frontend UI |
 | **Vite** | Fast build tool |
-| **TailwindCSS** | Styling |
+| **HTML & CSS** | Styling |
 | **Node.js** | Backend runtime |
 | **Express.js** | Server |
 | **MongoDB & Mongoose** | Database |
